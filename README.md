@@ -1,7 +1,7 @@
 #Bootstrap Portfolio
 ###Objective
 
-* Make the standard portfolio site responsive
+* Create a unique and sophisticated portfolio using Bootstrap
 
 ###Technologies Used
 
